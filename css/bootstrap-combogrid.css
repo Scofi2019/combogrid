@@ -1,0 +1,60 @@
+.combogrid-div{
+	-webkit-box-shadow:0 5px 10px rgba(0,0,0,0.2);
+	-moz-box-shadow:0 5px 10px rgba(0,0,0,0.2);
+	box-shadow:0 5px 10px rgba(0,0,0,0.2);
+	padding:3px;
+	border: 1px solid #e7e7e7;
+	border-radius: 8px;
+	background-color: white;
+}
+
+.combogrid-table-row-head{
+}
+
+.combogrid-table thead tr th{
+	border-bottom-width: 1px;
+	border-top-width: 1px;
+	border-bottom-color: #e7e7e7;
+	border-top-color: #e7e7e7;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	background-color: #F5F5F6;
+	padding: 4px;
+	word-break: keep-all;
+}
+
+.combogrid-table tbody tr{
+	background-color: white;
+}
+
+.combogrid-table tbody tr td{
+	border-bottom-width: 1px;
+	border-top-width: 1px;
+	border-bottom-color: #e7e7e7;
+	border-top-color: #e7e7e7;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	padding: 4px;
+	word-break: keep-all;
+}
+
+.combogrid-table .combogrid-row-index{
+	width:30px;
+}
+
+.combogrid-table-row-even{
+	background-color:#F4F4F4;
+}
+
+.combogrid-table-row-hover{
+	background-color: #dff0d8;
+}
+
+.grid-pager-control{
+	padding:3px 5px 3px 5px;
+	background-color: #F5F5F6;
+}
+
+.grid-pager-control tbody tr td{
+	background-color: #F5F5F6;
+}
